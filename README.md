@@ -6,3 +6,8 @@ What I find particularly interesting about this article is how it distills compl
 
 # Ajoks Response: Testers
 One interesting thing from the article I enjoyed was the idea of having testers. While developers are experts in writing code, they can easily overlook bugs because of how familiar they become with their own code, making it hard for them to spot issues that they wrote. Testers bring a fresh pair of eyes and focus entirely on finding problems, which the developers might miss.
+
+## Comments from Lauren Zhou
+
+This is a really cool article that breaks down the evaluation of an engineering team into a simple 12-step algorithm, definitely something I would expect from Joel Spolsky.
+Besides from testers, I was also drawn to #8 Do programmers have quiet working conditions?: getting into 'the zone' is such an elusive concept yet so important to the productivity of programmers. Very happy that Joel is trying to put this idea into concrete words here.
